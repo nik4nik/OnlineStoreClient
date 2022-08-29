@@ -1,0 +1,27 @@
+.icon-button {
+	color: orange;
+	cursor: pointer;
+	font-size: 3em;
+	transition: color, transform 500ms ease;
+}
+.icon-button:hover {
+	color: #dc3d3d;
+	transform: scale(1.5);
+}
+
+.icon-admin {
+	font-size: 3em;
+}
+
+.icon-trash {
+	font-size: 2em;
+}
+
+.icon-turn {
+	cursor: pointer;
+	transition: transform 500ms ease;
+}
+
+.icon-turn:hover {
+	transform: scale(1.5);
+}
